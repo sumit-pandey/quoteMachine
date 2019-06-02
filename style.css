@@ -54,6 +54,9 @@ body{
     align-items: center;
     font-family: "Sacramento";
 }
+.quote-box-inner{
+    padding: 10px;
+}
 
 .btn{
     
