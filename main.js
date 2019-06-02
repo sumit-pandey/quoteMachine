@@ -15,7 +15,7 @@ $(document).ready(function(){
 getQuote();
 $("#get-quote").on('click', function(){
     getQuote()
-    $('body')
+    $('.quote-box-inner').fadeOut(200).fadeIn()
 })
 
 })
